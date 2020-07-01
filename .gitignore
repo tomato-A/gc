@@ -1,0 +1,45 @@
+#Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ 
+#C/C++
+*.d
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.swp
+ 
+#Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+ 
+#Java
+*.class
+*.jar
+ 
+#generated files
+bin/
+gen/
+ 
+#Eclipse Project Files
+.classpath
+.project
+.settings/
+ 
+#IntelliJ IDEA Files
+*.iml
+*.ipr
+*.iws
+*.idea
+ 
+README.html
+————————————————
+版权声明：本文为CSDN博主「ustczhng2012」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/ustczhng2012/java/article/details/82929292
